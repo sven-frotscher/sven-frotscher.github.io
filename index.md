@@ -4,4 +4,9 @@
 
 In the film, they operate a car garage ("Taller de Ben") together.
 
-Jeremias has a lot of life lessons to share with both Ben and his Ben's rival Kid (Terence Hill).
+## Characteristics
+
+* often seen smoking a cigar, which annoys Ben
+* cautious
+* was once part of the gang which destroyed the
+first dune buggy (as chef)
