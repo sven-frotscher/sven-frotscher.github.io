@@ -43,9 +43,7 @@ Jeremias:
 > How did you know all that?
 
 Ben (laughing):
-> You already told me 999 times!
+> You already told me that story 999 times!
 
 <br><br>
-<img src=https://spencerhilldb.de/bilder/schwefel_barbero.jpg>
-
-Jeremias sitting in the old car
+![Jeremias sitting in the old car](https://spencerhilldb.de/bilder/schwefel_barbero.jpg)
