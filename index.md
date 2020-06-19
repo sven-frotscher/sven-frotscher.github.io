@@ -44,3 +44,8 @@ Jeremias:
 
 Ben (laughing):
 > You already told me 999 times!
+
+<br><br>
+<img src=https://spencerhilldb.de/bilder/schwefel_barbero.jpg>
+
+Jeremias sitting in the old car
