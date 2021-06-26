@@ -47,3 +47,8 @@ Ben (laughing):
 
 <br><br>
 ![Jeremias sitting in the old car](https://spencerhilldb.de/bilder/schwefel_barbero.jpg)
+
+---
+#### Made by [Sven](https://github.com/sven-frotscher) during the [openHPI Git course](https://open.hpi.de/courses/git2020)
+[GitHub repo for this page](https://github.com/sven-frotscher/sven-frotscher.github.io)
+
